@@ -1,5 +1,4 @@
 # free-app-store-ipa
-# free-app-store
 لتثبيت المتجر ادخل على <br>
 https://domain/setup.php <br>
 تحط الهوست <br>
